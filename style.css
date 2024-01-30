@@ -1,0 +1,43 @@
+
+form {
+  width: auto;
+  max-width: 500px;
+  background-color: white;
+  padding: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 18px;
+}
+.input-labels {
+  line-height: 24px;
+
+}
+.input-item {
+  width: 100%;
+}input[type="date"]::-webkit-calendar-picker-indicator {
+    background: transparent;
+    bottom: 0;
+    color: transparent;
+    cursor: pointer;
+    height: auto;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: auto;
+}
+
+
+.title-form {
+  text-align: center;
+}
+
+.submit-design {
+  background-color: lightseagreen;
+  border-radius: 10px;
+  margin-right: 25%;
+  margin-left: 75%;
+}
+.palcefields input{
+margin-bottom:15px;
+}
